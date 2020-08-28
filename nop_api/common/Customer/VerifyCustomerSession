@@ -1,0 +1,66 @@
+{
+    "status": 200,
+    "message": "Ok, successfull",
+    "model": {
+        "code": "123456",
+        "customer": {
+            "id": 1,
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjA5Mzc0ODkxMDQ0IiwibmFtZWlkIjoiMSIsIm5iZiI6MTU5Nzc2NTU4NiwiZXhwIjoxNjYwODM3NTg2LCJpYXQiOjE1OTc3NjU1ODZ9.7s98NxufQQ5WE9B0Vg7l4wRUkKwUFgdjAeQfXTK-czA",
+            "first_name": "Shaheen",
+            "last_name": "Zahedi",
+            "user_name": "admin@yourStore.com",
+            "email": "admin@yourStore.com",
+            "phonenumber": "+989118097644",
+            "avatar_url": "https://thispersondoesnotexist.com/image"
+        },
+        "Addresses": [
+            {
+                "id": 1,
+                "first_name": "John",
+                "last_name": "Smith",
+                "email": "admin@yourStore.com",
+                "company_enabled": true,
+                "company_required": false,
+                "company": "Nop Solutions Ltd",
+                "country_enabled": true,
+                "country_id": 1,
+                "country_name": "United States",
+                "state_province_enabled": true,
+                "state_province_id": 16,
+                "state_province_name": "New York",
+                "city_enabled": true,
+                "city_required": true,
+                "city": "New York",
+                "county": null,
+                "street_address_enabled": true,
+                "street_address_required": true,
+                "address1": "21 West 52nd Street",
+                "street_address2_enabled": true,
+                "street_address2_required": false,
+                "address2": "",
+                "zip_postal_code_enabled": true,
+                "zip_postal_code_required": true,
+                "zip_postal_code": "10021",
+                "phone_enabled": true,
+                "phone_required": true,
+                "phone_number": "12345678",
+                "fax_enabled": true,
+                "fax_required": false,
+                "fax_number": "",
+                "formatted_custom_address_attributes": "",
+                "custom_address_attributes": []
+            }
+        ],
+        "working_language": {
+            "id": 1,
+            "name": "English",
+            "display_order": 1
+        },
+        "working_currency": {
+            "id": 1,
+            "name": "US Dollar",
+            "display_order": 1
+        },
+        "CustomProperties": {}
+    }
+}
