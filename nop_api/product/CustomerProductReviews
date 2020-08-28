@@ -1,0 +1,126 @@
+{
+    "status": 200,
+    "message": "Ok, successfull",
+    "model": [
+        {
+            "product_id": 1,
+            "product_name": "Build your own computer",
+            "product_se_name": "build-your-own-computer",
+            "title": "this is test comment",
+            "review_text": null,
+            "reply_text": null,
+            "rating": 5,
+            "written_on_str": "1/31/2020 9:49 PM",
+            "approval_status": null,
+            "CustomProperties": {}
+        },
+        {
+            "product_id": 1,
+            "product_name": "Build your own computer",
+            "product_se_name": "build-your-own-computer",
+            "title": "this is test comment",
+            "review_text": null,
+            "reply_text": null,
+            "rating": 5,
+            "written_on_str": "1/31/2020 9:49 PM",
+            "approval_status": null,
+            "CustomProperties": {}
+        },
+        {
+            "product_id": 1,
+            "product_name": "Build your own computer",
+            "product_se_name": "build-your-own-computer",
+            "title": "this is test comment",
+            "review_text": null,
+            "reply_text": null,
+            "rating": 5,
+            "written_on_str": "1/31/2020 9:49 PM",
+            "approval_status": null,
+            "CustomProperties": {}
+        },
+        {
+            "product_id": 45,
+            "product_name": "$100 Physical Gift Card",
+            "product_se_name": "100-physical-gift-card",
+            "title": "Some sample review",
+            "review_text": "This sample review is for the $100 Physical Gift Card. I've been waiting for this product to be available. It is priced just right.",
+            "reply_text": null,
+            "rating": 4,
+            "written_on_str": "1/31/2020 9:49 PM",
+            "approval_status": null,
+            "CustomProperties": {}
+        },
+        {
+            "product_id": 43,
+            "product_name": "$25 Virtual Gift Card",
+            "product_se_name": "25-virtual-gift-card",
+            "title": "Some sample review",
+            "review_text": "This sample review is for the $25 Virtual Gift Card. I've been waiting for this product to be available. It is priced just right.",
+            "reply_text": null,
+            "rating": 5,
+            "written_on_str": "1/31/2020 9:49 PM",
+            "approval_status": null,
+            "CustomProperties": {}
+        },
+        {
+            "product_id": 42,
+            "product_name": "Vintage Style Engagement Ring",
+            "product_se_name": "vintage-style-engagement-ring",
+            "title": "Some sample review",
+            "review_text": "This sample review is for the Vintage Style Engagement Ring. I've been waiting for this product to be available. It is priced just right.",
+            "reply_text": null,
+            "rating": 5,
+            "written_on_str": "1/31/2020 9:49 PM",
+            "approval_status": null,
+            "CustomProperties": {}
+        },
+        {
+            "product_id": 41,
+            "product_name": "Flower Girl Bracelet",
+            "product_se_name": "flower-girl-bracelet",
+            "title": "Some sample review",
+            "review_text": "This sample review is for the Flower Girl Bracelet. I've been waiting for this product to be available. It is priced just right.",
+            "reply_text": null,
+            "rating": 5,
+            "written_on_str": "1/31/2020 9:49 PM",
+            "approval_status": null,
+            "CustomProperties": {}
+        },
+        {
+            "product_id": 39,
+            "product_name": "Pride and Prejudice",
+            "product_se_name": "pride-and-prejudice",
+            "title": "Some sample review",
+            "review_text": "This sample review is for the Pride and Prejudice. I've been waiting for this product to be available. It is priced just right.",
+            "reply_text": null,
+            "rating": 5,
+            "written_on_str": "1/31/2020 9:49 PM",
+            "approval_status": null,
+            "CustomProperties": {}
+        },
+        {
+            "product_id": 38,
+            "product_name": "First Prize Pies",
+            "product_se_name": "first-prize-pies",
+            "title": "Some sample review",
+            "review_text": "This sample review is for the First Prize Pies. I've been waiting for this product to be available. It is priced just right.",
+            "reply_text": null,
+            "rating": 5,
+            "written_on_str": "1/31/2020 9:49 PM",
+            "approval_status": null,
+            "CustomProperties": {}
+        },
+        {
+            "product_id": 37,
+            "product_name": "Fahrenheit 451 by Ray Bradbury",
+            "product_se_name": "fahrenheit-451-by-ray-bradbury",
+            "title": "Some sample review",
+            "review_text": "This sample review is for the Fahrenheit 451 by Ray Bradbury. I've been waiting for this product to be available. It is priced just right.",
+            "reply_text": null,
+            "rating": 5,
+            "written_on_str": "1/31/2020 9:49 PM",
+            "approval_status": null,
+            "CustomProperties": {}
+        }
+    ]
+}

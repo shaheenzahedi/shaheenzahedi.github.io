@@ -1,0 +1,70 @@
+{
+    "status": 200,
+    "message": "Ok, successfull",
+    "model": [
+        {
+            "id": 1,
+            "breadcrumb": "Computers"
+        },
+        {
+            "id": 2,
+            "breadcrumb": "Computers >> Desktops"
+        },
+        {
+            "id": 3,
+            "breadcrumb": "Computers >> Notebooks"
+        },
+        {
+            "id": 4,
+            "breadcrumb": "Computers >> Software"
+        },
+        {
+            "id": 5,
+            "breadcrumb": "Electronics"
+        },
+        {
+            "id": 6,
+            "breadcrumb": "Electronics >> Camera & photo"
+        },
+        {
+            "id": 7,
+            "breadcrumb": "Electronics >> Cell phones"
+        },
+        {
+            "id": 8,
+            "breadcrumb": "Electronics >> Others"
+        },
+        {
+            "id": 9,
+            "breadcrumb": "Apparel"
+        },
+        {
+            "id": 10,
+            "breadcrumb": "Apparel >> Shoes"
+        },
+        {
+            "id": 11,
+            "breadcrumb": "Apparel >> Clothing"
+        },
+        {
+            "id": 12,
+            "breadcrumb": "Apparel >> Accessories"
+        },
+        {
+            "id": 13,
+            "breadcrumb": "Digital downloads"
+        },
+        {
+            "id": 14,
+            "breadcrumb": "Books"
+        },
+        {
+            "id": 15,
+            "breadcrumb": "Jewelry"
+        },
+        {
+            "id": 16,
+            "breadcrumb": "Gift Cards"
+        }
+    ]
+}

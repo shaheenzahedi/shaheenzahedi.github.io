@@ -1,0 +1,9 @@
+{
+    "status": 200,
+    "message": "Ok, successfull",
+    "model": {
+        "id": 1,
+        "name": "English",
+        "display_order": 1
+    }
+}

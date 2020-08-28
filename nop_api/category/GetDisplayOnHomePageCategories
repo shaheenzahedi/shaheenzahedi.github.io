@@ -1,0 +1,72 @@
+{
+  "status": 200,
+  "message": "Ok, successfull",
+  "model": [
+    {
+      "id": 5,
+      "name": "Electronics",
+      "descriprion": null,
+      "meta_keywords": null,
+      "meta_description": null,
+      "meta_title": null,
+      "se_name": "electronics",
+      "parent_category_id": 0,
+      "picture_id": 0,
+      "picture": {
+        "id": 0,
+        "image_base64": null,
+        "image_url": "https://github.com/nopSolutions/nopCommerce/raw/develop/src/Presentation/Nop.Web/wwwroot/images/samples/category_electronics.jpeg",
+        "thumb_image_url": null,
+        "seo_filename": null,
+        "mime_type": null,
+        "full_size_image_url": "https://github.com/nopSolutions/nopCommerce/raw/develop/src/Presentation/Nop.Web/wwwroot/images/samples/category_electronics.jpeg",
+        "title": "Show products in category Electronics",
+        "alternate_text": "Picture for category Electronics"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Apparel",
+      "descriprion": null,
+      "meta_keywords": null,
+      "meta_description": null,
+      "meta_title": null,
+      "se_name": "apparel",
+      "parent_category_id": 0,
+      "picture_id": 0,
+      "picture": {
+        "id": 0,
+        "image_base64": null,
+        "image_url": "https://github.com/nopSolutions/nopCommerce/raw/develop/src/Presentation/Nop.Web/wwwroot/images/samples/category_apparel.jpeg",
+        "thumb_image_url": null,
+        "seo_filename": null,
+        "mime_type": null,
+        "full_size_image_url": "https://github.com/nopSolutions/nopCommerce/raw/develop/src/Presentation/Nop.Web/wwwroot/images/samples/category_apparel.jpeg",
+        "title": "Show products in category Apparel",
+        "alternate_text": "Picture for category Apparel"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Digital downloads",
+      "descriprion": null,
+      "meta_keywords": null,
+      "meta_description": null,
+      "meta_title": null,
+      "se_name": "digital-downloads",
+      "parent_category_id": 0,
+      "picture_id": 0,
+      "picture": {
+        "id": 0,
+        "image_base64": null,
+        "image_url": "https://github.com/nopSolutions/nopCommerce/raw/develop/src/Presentation/Nop.Web/wwwroot/images/samples/category_digital_downloads.jpeg",
+        "thumb_image_url": null,
+        "seo_filename": null,
+        "mime_type": null,
+        "full_size_image_url": "https://github.com/nopSolutions/nopCommerce/raw/develop/src/Presentation/Nop.Web/wwwroot/images/samples/category_digital_downloads.jpeg",
+        "title": "Show products in category Digital downloads",
+        "alternate_text": "Picture for category Digital downloads"
+      }
+    }
+  ]
+}

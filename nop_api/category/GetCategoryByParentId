@@ -1,0 +1,72 @@
+{
+    "status": 200,
+    "message": "Ok, successfull",
+    "model": [
+        {
+            "id": 2,
+            "name": "Desktops",
+            "descriprion": null,
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "desktops",
+            "parent_category_id": 1,
+            "picture_id": 2,
+            "picture": {
+                "id": 2,
+                "image_base64": null,
+                "image_url": "https://github.com/nopSolutions/nopCommerce/raw/develop/src/Presentation/Nop.Web/wwwroot/images/samples/category_desktops.jpg",
+                "thumb_image_url": null,
+                "seo_filename": null,
+                "mime_type": null,
+                "full_size_image_url": "https://github.com/nopSolutions/nopCommerce/raw/develop/src/Presentation/Nop.Web/wwwroot/images/samples/category_desktops.jpg",
+                "title": "Show products in category Desktops",
+                "alternate_text": "Picture for category Desktops"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Notebooks",
+            "descriprion": null,
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "notebooks",
+            "parent_category_id": 1,
+            "picture_id": 3,
+            "picture": {
+                "id": 3,
+                "image_base64": null,
+                "image_url": "https://fakeimg.pl/440x320/282828/eae0d0/?retina=1",
+                "thumb_image_url": null,
+                "seo_filename": null,
+                "mime_type": null,
+                "full_size_image_url": "https://fakeimg.pl/440x320/282828/eae0d0/?retina=1",
+                "title": "Show products in category Notebooks",
+                "alternate_text": "Picture for category Notebooks"
+            }
+        },
+        {
+            "id": 4,
+            "name": "Software",
+            "descriprion": null,
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "software",
+            "parent_category_id": 1,
+            "picture_id": 4,
+            "picture": {
+                "id": 4,
+                "image_base64": null,
+                "image_url": "https://fakeimg.pl/440x320/282828/eae0d0/?retina=1",
+                "thumb_image_url": null,
+                "seo_filename": null,
+                "mime_type": null,
+                "full_size_image_url": "https://fakeimg.pl/440x320/282828/eae0d0/?retina=1",
+                "title": "Show products in category Software",
+                "alternate_text": "Picture for category Software"
+            }
+        }
+    ]
+}

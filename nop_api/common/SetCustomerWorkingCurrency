@@ -1,0 +1,8 @@
+{
+    "status": 200,
+    "message": "Ok, successfull",
+    "model": {
+        "id": 1,
+        "name": "US Dollar",
+        "display_order": 1
+    }

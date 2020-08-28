@@ -1,0 +1,45 @@
+{
+    "status": 200,
+    "message": "Ok, successfull",
+    "model": {
+        "product_id": 1,
+        "product_name": "Build your own computer",
+        "product_se_name": "build-your-own-computer",
+        "store_id": 0,
+        "language_id": 0,
+        "items": [
+            {
+                "id": 32,
+                "customer_id": 1,
+                "customer_name": null,
+                "allow_viewing_profiles": false,
+                "title": "this is test comment",
+                "review_text": null,
+                "reply_text": null,
+                "rating": 5,
+                "help_fulness": {
+                    "product_review_id": 32,
+                    "helpful_yes_total": 0,
+                    "helpful_no_total": 0
+                },
+                "written_on_str": "4/7/2020 11:31 PM"
+            },
+            {
+                "id": 33,
+                "customer_id": 1,
+                "customer_name": null,
+                "allow_viewing_profiles": false,
+                "title": "this is test comment",
+                "review_text": null,
+                "reply_text": null,
+                "rating": 5,
+                "help_fulness": {
+                    "product_review_id": 33,
+                    "helpful_yes_total": 0,
+                    "helpful_no_total": 0
+                },
+                "written_on_str": "4/7/2020 11:32 PM"
+            }
+        ]
+    }
+}

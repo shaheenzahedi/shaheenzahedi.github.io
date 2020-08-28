@@ -1,0 +1,648 @@
+{
+  "status": 200,
+  "message": "Ok, successfull",
+  "model": {
+    "home_page_products_list_model": [
+      {
+        "Name": "Last products",
+        "Products": [
+          {
+            "default_picture_model": {
+              "id": 76,
+              "image_base64": null,
+              "image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_100giftcart.jpeg",
+              "thumb_image_url": null,
+              "seo_filename": null,
+              "mime_type": null,
+              "full_size_image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_100giftcart.jpeg",
+              "title": "Picture of $100 Physical Gift Card",
+              "alternate_text": "Picture of $100 Physical Gift Card"
+            },
+            "product_price": {
+              "currency_code": "USD",
+              "old_price": null,
+              "price": "$100.00",
+              "price_with_discount": null,
+              "price_value": 100,
+              "customer_enters_price": false,
+              "call_for_price": false,
+              "product_id": 45,
+              "hide_prices": false,
+              "is_rental": false,
+              "rental_price": null,
+              "display_tax_shipping_info": false,
+              "base_price_pangv": null,
+              "CustomProperties": {}
+            },
+            "name": "$100 Physical Gift Card",
+            "short_description": "$100 Gift Card. Gift Cards must be redeemed through our site Web site toward the purchase of eligible products.",
+            "full_description": "<p>Gift Cards must be redeemed through our site Web site toward the purchase of eligible products. Purchases are deducted from the GiftCard balance. Any unused balance will be placed in the recipient's GiftCard account when redeemed. If an order exceeds the amount of the GiftCard, the balance must be paid with a credit card or other available payment method.</p>",
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "100-physical-gift-card",
+            "Id": 45,
+            "CustomProperties": {}
+          },
+          {
+            "default_picture_model": {
+              "id": 75,
+              "image_base64": null,
+              "image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_50giftcart.jpeg",
+              "thumb_image_url": null,
+              "seo_filename": null,
+              "mime_type": null,
+              "full_size_image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_50giftcart.jpeg",
+              "title": "Picture of $50 Physical Gift Card",
+              "alternate_text": "Picture of $50 Physical Gift Card"
+            },
+            "product_price": {
+              "currency_code": "USD",
+              "old_price": null,
+              "price": "$50.00",
+              "price_with_discount": null,
+              "price_value": 50,
+              "customer_enters_price": false,
+              "call_for_price": false,
+              "product_id": 44,
+              "hide_prices": false,
+              "is_rental": false,
+              "rental_price": null,
+              "display_tax_shipping_info": false,
+              "base_price_pangv": null,
+              "CustomProperties": {}
+            },
+            "name": "$50 Physical Gift Card",
+            "short_description": "$50 Gift Card. Gift Cards must be redeemed through our site Web site toward the purchase of eligible products.",
+            "full_description": "<p>Gift Cards must be redeemed through our site Web site toward the purchase of eligible products. Purchases are deducted from the GiftCard balance. Any unused balance will be placed in the recipient's GiftCard account when redeemed. If an order exceeds the amount of the GiftCard, the balance must be paid with a credit card or other available payment method.</p>",
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "50-physical-gift-card",
+            "Id": 44,
+            "CustomProperties": {}
+          },
+          {
+            "default_picture_model": {
+              "id": 74,
+              "image_base64": null,
+              "image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_25giftcart.jpeg",
+              "thumb_image_url": null,
+              "seo_filename": null,
+              "mime_type": null,
+              "full_size_image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_25giftcart.jpeg",
+              "title": "Picture of $25 Virtual Gift Card",
+              "alternate_text": "Picture of $25 Virtual Gift Card"
+            },
+            "product_price": {
+              "currency_code": "USD",
+              "old_price": null,
+              "price": "$25.00",
+              "price_with_discount": null,
+              "price_value": 25,
+              "customer_enters_price": false,
+              "call_for_price": false,
+              "product_id": 43,
+              "hide_prices": false,
+              "is_rental": false,
+              "rental_price": null,
+              "display_tax_shipping_info": false,
+              "base_price_pangv": null,
+              "CustomProperties": {}
+            },
+            "name": "$25 Virtual Gift Card",
+            "short_description": "$25 Gift Card. Gift Cards must be redeemed through our site Web site toward the purchase of eligible products.",
+            "full_description": "<p>Gift Cards must be redeemed through our site Web site toward the purchase of eligible products. Purchases are deducted from the GiftCard balance. Any unused balance will be placed in the recipient's GiftCard account when redeemed. If an order exceeds the amount of the GiftCard, the balance must be paid with a credit card or other available payment method.</p>",
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "25-virtual-gift-card",
+            "Id": 43,
+            "CustomProperties": {}
+          },
+          {
+            "default_picture_model": {
+              "id": 73,
+              "image_base64": null,
+              "image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_EngagementRing_1.jpg",
+              "thumb_image_url": null,
+              "seo_filename": null,
+              "mime_type": null,
+              "full_size_image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_EngagementRing_1.jpg",
+              "title": "Picture of Vintage Style Engagement Ring",
+              "alternate_text": "Picture of Vintage Style Engagement Ring"
+            },
+            "product_price": {
+              "currency_code": "USD",
+              "old_price": null,
+              "price": "$2,100.00",
+              "price_with_discount": null,
+              "price_value": 2100,
+              "customer_enters_price": false,
+              "call_for_price": false,
+              "product_id": 42,
+              "hide_prices": false,
+              "is_rental": false,
+              "rental_price": null,
+              "display_tax_shipping_info": false,
+              "base_price_pangv": null,
+              "CustomProperties": {}
+            },
+            "name": "Vintage Style Engagement Ring",
+            "short_description": "1.24 Carat (ctw) in 14K White Gold (Certified)",
+            "full_description": "<p>Dazzle her with this gleaming 14 karat white gold vintage proposal. A ravishing collection of 11 decadent diamonds come together to invigorate a superbly ornate gold shank. Total diamond weight on this antique style engagement ring equals 1 1/4 carat (ctw). Item includes diamond certificate.</p>",
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "vintage-style-engagement-ring",
+            "Id": 42,
+            "CustomProperties": {}
+          },
+          {
+            "default_picture_model": {
+              "id": 72,
+              "image_base64": null,
+              "image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_FlowerBracelet.jpg",
+              "thumb_image_url": null,
+              "seo_filename": null,
+              "mime_type": null,
+              "full_size_image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_FlowerBracelet.jpg",
+              "title": "Picture of Flower Girl Bracelet",
+              "alternate_text": "Picture of Flower Girl Bracelet"
+            },
+            "product_price": {
+              "currency_code": "USD",
+              "old_price": null,
+              "price": "$360.00",
+              "price_with_discount": null,
+              "price_value": 360,
+              "customer_enters_price": false,
+              "call_for_price": false,
+              "product_id": 41,
+              "hide_prices": false,
+              "is_rental": false,
+              "rental_price": null,
+              "display_tax_shipping_info": false,
+              "base_price_pangv": null,
+              "CustomProperties": {}
+            },
+            "name": "Flower Girl Bracelet",
+            "short_description": "Personalised Flower Braceled",
+            "full_description": "<p>This is a great gift for your flower girl to wear on your wedding day. A delicate bracelet that is made with silver plated soldered cable chain, gives this bracelet a dainty look for young wrist. A Swarovski heart, shown in Rose, hangs off a silver plated flower. Hanging alongside the heart is a silver plated heart charm with Flower Girl engraved on both sides. This is a great style for the younger flower girl.</p>",
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "flower-girl-bracelet",
+            "Id": 41,
+            "CustomProperties": {}
+          },
+          {
+            "default_picture_model": {
+              "id": 71,
+              "image_base64": null,
+              "image_url":"https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_GemstoneNecklaces.jpg",
+              "thumb_image_url": null,
+              "seo_filename": null,
+              "mime_type": null,
+              "full_size_image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_GemstoneNecklaces.jpg",
+              "title": "Picture of Elegant Gemstone Necklace (rental)",
+              "alternate_text": "Picture of Elegant Gemstone Necklace (rental)"
+            },
+            "product_price": {
+              "currency_code": "USD",
+              "old_price": null,
+              "price": "$30.00",
+              "price_with_discount": null,
+              "price_value": 30,
+              "customer_enters_price": false,
+              "call_for_price": false,
+              "product_id": 40,
+              "hide_prices": false,
+              "is_rental": true,
+              "rental_price": "$30.00 per 1 day(s)",
+              "display_tax_shipping_info": false,
+              "base_price_pangv": null,
+              "CustomProperties": {}
+            },
+            "name": "Elegant Gemstone Necklace (rental)",
+            "short_description": "Classic and elegant gemstone necklace now available in our store",
+            "full_description": "<p>For those who like jewelry, creating their ownelegant jewelry from gemstone beads provides an economical way to incorporate genuine gemstones into your jewelry wardrobe. Manufacturers create beads from all kinds of precious gemstones and semi-precious gemstones, which are available in bead shops, craft stores, and online marketplaces.</p>",
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "elegant-gemstone-necklace-rental",
+            "Id": 40,
+            "CustomProperties": {}
+          },
+          {
+            "default_picture_model": {
+              "id": 70,
+              "image_base64": null,
+              "image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_PrideAndPrejudice.jpeg",
+              "thumb_image_url": null,
+              "seo_filename": null,
+              "mime_type": null,
+              "full_size_image_url":  "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_PrideAndPrejudice.jpeg",
+              "title": "Picture of Pride and Prejudice",
+              "alternate_text": "Picture of Pride and Prejudice"
+            },
+            "product_price": {
+              "currency_code": "USD",
+              "old_price": "$35.00",
+              "price": "$24.00",
+              "price_with_discount": null,
+              "price_value": 24,
+              "customer_enters_price": false,
+              "call_for_price": false,
+              "product_id": 39,
+              "hide_prices": false,
+              "is_rental": false,
+              "rental_price": null,
+              "display_tax_shipping_info": false,
+              "base_price_pangv": null,
+              "CustomProperties": {}
+            },
+            "name": "Pride and Prejudice",
+            "short_description": "Pride and Prejudice is a novel of manners by Jane Austen, first published in 1813.",
+            "full_description": "<p>Set in England in the early 19th century, Pride and Prejudice tells the story of Mr and Mrs Bennet's five unmarried daughters after the rich and eligible Mr Bingley and his status-conscious friend, Mr Darcy, have moved into their neighbourhood. While Bingley takes an immediate liking to the eldest Bennet daughter, Jane, Darcy has difficulty adapting to local society and repeatedly clashes with the second-eldest Bennet daughter, Elizabeth.</p>",
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "pride-and-prejudice",
+            "Id": 39,
+            "CustomProperties": {}
+          },
+          {
+            "default_picture_model": {
+              "id": 69,
+              "image_base64": null,
+              "image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_FirstPrizePies.jpeg",
+              "thumb_image_url": null,
+              "seo_filename": null,
+              "mime_type": null,
+              "full_size_image_url":  "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_FirstPrizePies.jpeg",
+              "title": "Picture of First Prize Pies",
+              "alternate_text": "Picture of First Prize Pies"
+            },
+            "product_price": {
+              "currency_code": "USD",
+              "old_price": "$67.00",
+              "price": "$51.00",
+              "price_with_discount": null,
+              "price_value": 51,
+              "customer_enters_price": false,
+              "call_for_price": false,
+              "product_id": 38,
+              "hide_prices": false,
+              "is_rental": false,
+              "rental_price": null,
+              "display_tax_shipping_info": false,
+              "base_price_pangv": null,
+              "CustomProperties": {}
+            },
+            "name": "First Prize Pies",
+            "short_description": "Allison Kave made pies as a hobby, until one day her boyfriend convinced her to enter a Brooklyn pie-making contest. She won. In fact, her pies were such a hit that she turned pro.",
+            "full_description": "<p>First Prize Pies, a boutique, made-to-order pie business that originated on New York's Lower East Side, has become synonymous with tempting and unusual confections. For the home baker who is passionate about seasonal ingredients and loves a creative approach to recipes, First Prize Pies serves up 52 weeks of seasonal and eclectic pastries in an interesting pie-a-week format. Clear instructions, technical tips and creative encouragement guide novice bakers as well as pie mavens. With its nostalgia-evoking photos of homemade pies fresh out of the oven, First Prize Pies will be as giftable as it is practical.</p>",
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "first-prize-pies",
+            "Id": 38,
+            "CustomProperties": {}
+          },
+          {
+            "default_picture_model": {
+              "id": 68,
+              "image_base64": null,
+              "image_url":  "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_Fahrenheit451.jpeg",
+              "thumb_image_url": null,
+              "seo_filename": null,
+              "mime_type": null,
+              "full_size_image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_Fahrenheit451.jpeg",
+              "title": "Picture of Fahrenheit 451 by Ray Bradbury",
+              "alternate_text": "Picture of Fahrenheit 451 by Ray Bradbury"
+            },
+            "product_price": {
+              "currency_code": "USD",
+              "old_price": "$30.00",
+              "price": "$27.00",
+              "price_with_discount": null,
+              "price_value": 27,
+              "customer_enters_price": false,
+              "call_for_price": false,
+              "product_id": 37,
+              "hide_prices": false,
+              "is_rental": false,
+              "rental_price": null,
+              "display_tax_shipping_info": false,
+              "base_price_pangv": null,
+              "CustomProperties": {}
+            },
+            "name": "Fahrenheit 451 by Ray Bradbury",
+            "short_description": "Fahrenheit 451 is a dystopian novel by Ray Bradbury published in 1953. It is regarded as one of his best works.",
+            "full_description": "<p>The novel presents a future American society where books are outlawed and firemen burn any that are found. The title refers to the temperature that Bradbury understood to be the autoignition point of paper.</p>",
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "fahrenheit-451-by-ray-bradbury",
+            "Id": 37,
+            "CustomProperties": {}
+          },
+          {
+            "default_picture_model": {
+              "id": 67,
+              "image_base64": null,
+              "image_url":"https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_ScienceAndFaith.jpeg",
+              "thumb_image_url": null,
+              "seo_filename": null,
+              "mime_type": null,
+              "full_size_image_url":"https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_ScienceAndFaith.jpeg",
+              "title": "Picture of Science & Faith",
+              "alternate_text": "Picture of Science & Faith"
+            },
+            "product_price": {
+              "currency_code": null,
+              "old_price": null,
+              "price": null,
+              "price_with_discount": null,
+              "price_value": 0,
+              "customer_enters_price": true,
+              "call_for_price": false,
+              "product_id": 36,
+              "hide_prices": false,
+              "is_rental": false,
+              "rental_price": null,
+              "display_tax_shipping_info": false,
+              "base_price_pangv": null,
+              "CustomProperties": {}
+            },
+            "name": "Science & Faith",
+            "short_description": "Science & Faith is the second studio album by Irish pop rock band The Script.",
+            "full_description": "<p># Original Release Date: September 10, 2010<br /># Label: RCA, Epic/Phonogenic(America)<br /># Copyright: 2010 RCA Records.</p>",
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "science-faith",
+            "Id": 36,
+            "CustomProperties": {}
+          }
+        ]
+      },
+      {
+        "Name": "Best selling",
+        "Products": [
+          {
+            "default_picture_model": {
+              "id": 39,
+              "image_base64": null,
+              "image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_NikonCamera_1.jpeg",
+              "thumb_image_url": null,
+              "seo_filename": null,
+              "mime_type": null,
+              "full_size_image_url":"https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_NikonCamera_1.jpeg",
+              "title": "Picture of Leica T Mirrorless Digital Camera",
+              "alternate_text": "Picture of Leica T Mirrorless Digital Camera"
+            },
+            "product_price": {
+              "currency_code": "USD",
+              "old_price": null,
+              "price": "$530.00",
+              "price_with_discount": null,
+              "price_value": 530,
+              "customer_enters_price": false,
+              "call_for_price": false,
+              "product_id": 16,
+              "hide_prices": false,
+              "is_rental": false,
+              "rental_price": null,
+              "display_tax_shipping_info": false,
+              "base_price_pangv": null,
+              "CustomProperties": {}
+            },
+            "name": "Leica T Mirrorless Digital Camera",
+            "short_description": "Leica T (Typ 701) Silver",
+            "full_description": "<p>The new Leica T offers a minimalist design that's crafted from a single block of aluminum.  Made in Germany and assembled by hand, this 16.3 effective mega pixel camera is easy to use.  With a massive 3.7 TFT LCD intuitive touch screen control, the user is able to configure and save their own menu system.  The Leica T has outstanding image quality and also has 16GB of built in memory.  This is Leica's first system camera to use Wi-Fi.  Add the T-App to your portable iOS device and be able to transfer and share your images (free download from the Apple App Store)</p>",
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "leica-t-mirrorless-digital-camera",
+            "Id": 16,
+            "CustomProperties": {}
+          },
+          {
+            "default_picture_model": {
+              "id": 40,
+              "image_base64": null,
+              "image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_iCam.jpeg",
+              "thumb_image_url": null,
+              "seo_filename": null,
+              "mime_type": null,
+              "full_size_image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_iCam.jpeg",
+              "title": "Picture of Apple iCam",
+              "alternate_text": "Picture of Apple iCam"
+            },
+            "product_price": {
+              "currency_code": "USD",
+              "old_price": null,
+              "price": "$1,300.00",
+              "price_with_discount": null,
+              "price_value": 1300,
+              "customer_enters_price": false,
+              "call_for_price": false,
+              "product_id": 17,
+              "hide_prices": false,
+              "is_rental": false,
+              "rental_price": null,
+              "display_tax_shipping_info": false,
+              "base_price_pangv": null,
+              "CustomProperties": {}
+            },
+            "name": "Apple iCam",
+            "short_description": "Photography becomes smart",
+            "full_description": "<p>A few months ago we featured the amazing WVIL camera, by many considered the future of digital photography. This is another very good looking concept, iCam is the vision of Italian designer Antonio DeRosa, the idea is to have a device that attaches to the iPhone 5, which then allows the user to have a camera with interchangeable lenses. The device would also feature a front-touch screen and a projector. Would be great if apple picked up on this and made it reality.</p>",
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "apple-icam",
+            "Id": 17,
+            "CustomProperties": {}
+          },
+          {
+            "default_picture_model": {
+              "id": 60,
+              "image_base64": null,
+              "image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_LeviJeans_1.jpg",
+              "thumb_image_url": null,
+              "seo_filename": null,
+              "mime_type": null,
+              "full_size_image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_LeviJeans_1.jpg",
+              "title": "Picture of Levi's 511 Jeans",
+              "alternate_text": "Picture of Levi's 511 Jeans"
+            },
+            "product_price": {
+              "currency_code": "USD",
+              "old_price": "$55.00",
+              "price": "$43.50",
+              "price_with_discount": null,
+              "price_value": 43.5,
+              "customer_enters_price": false,
+              "call_for_price": false,
+              "product_id": 30,
+              "hide_prices": false,
+              "is_rental": false,
+              "rental_price": null,
+              "display_tax_shipping_info": false,
+              "base_price_pangv": null,
+              "CustomProperties": {}
+            },
+            "name": "Levi's 511 Jeans",
+            "short_description": "Levi's Faded Black 511 Jeans ",
+            "full_description": "<p>Between a skinny and straight fit, our 511&trade; slim fit jeans are cut close without being too restricting. Slim throughout the thigh and leg opening for a long and lean look.</p><ul><li>Slouch1y at top; sits below the waist</li><li>Slim through the leg, close at the thigh and straight to the ankle</li><li>Stretch for added comfort</li><li>Classic five-pocket styling</li><li>99% Cotton, 1% Spandex, 11.2 oz. - Imported</li></ul>",
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "levis-511-jeans",
+            "Id": 30,
+            "CustomProperties": {}
+          },
+          {
+            "default_picture_model": {
+              "id": 65,
+              "image_base64": null,
+              "image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_NightVisions.jpeg",
+              "thumb_image_url": null,
+              "seo_filename": null,
+              "mime_type": null,
+              "full_size_image_url": "https://raw.githubusercontent.com/nopSolutions/nopCommerce/develop/src/Presentation/Nop.Web/wwwroot/images/samples/product_NightVisions.jpeg",
+              "title": "Picture of Night Visions",
+              "alternate_text": "Picture of Night Visions"
+            },
+            "product_price": {
+              "currency_code": "USD",
+              "old_price": null,
+              "price": "$2.80",
+              "price_with_discount": null,
+              "price_value": 2.8,
+              "customer_enters_price": false,
+              "call_for_price": false,
+              "product_id": 34,
+              "hide_prices": false,
+              "is_rental": false,
+              "rental_price": null,
+              "display_tax_shipping_info": false,
+              "base_price_pangv": null,
+              "CustomProperties": {}
+            },
+            "name": "Night Visions",
+            "short_description": "Night Visions is the debut studio album by American rock band Imagine Dragons.",
+            "full_description": "<p>Original Release Date: September 4, 2012</p><p>Release Date: September 4, 2012</p><p>Genre - Alternative rock, indie rock, electronic rock</p><p>Label - Interscope/KIDinaKORNER</p><p>Copyright: (C) 2011 Interscope Records</p>",
+            "meta_keywords": null,
+            "meta_description": null,
+            "meta_title": null,
+            "se_name": "night-visions",
+            "Id": 34,
+            "CustomProperties": {}
+          }
+        ]
+      }
+    ],
+    "nivo_slider_list_model": [
+      {
+        "link": "http://localhost:15536/",
+        "text": "",
+        "picture_id": 84,
+        "picture_model": {
+          "id": 84,
+          "image_base64": null,
+          "image_url": "https://static.dribbble.com/users/1689636/screenshots/4114482/nike_mags_dribble.png",
+          "thumb_image_url": null,
+          "seo_filename": "DSC_1825",
+          "mime_type": "image/jpeg",
+          "full_size_image_url": null,
+          "title": null,
+          "alternate_text": null
+        }
+      },      {
+        "link": "http://localhost:15536/",
+        "text": "",
+        "picture_id": 83,
+        "picture_model": {
+          "id": 83,
+          "image_base64": null,
+          "image_url": "https://static.dribbble.com/users/252377/screenshots/3424941/075-pre-order.png",
+          "thumb_image_url": null,
+          "seo_filename": "DSC_1827",
+          "mime_type": "image/jpeg",
+          "full_size_image_url": null,
+          "title": null,
+          "alternate_text": null
+        }
+      }
+    ],
+    "popular_product_tags_model": {
+      "TotalTags": 16,
+      "Tags": [
+        {
+          "id": 10,
+          "name": "apparel",
+          "se_name": "apparel-2",
+          "product_count": 9
+        },
+        {
+          "id": 1,
+          "name": "awesome",
+          "se_name": "awesome",
+          "product_count": 17
+        },
+        {
+          "id": 14,
+          "name": "book",
+          "se_name": "book",
+          "product_count": 3
+        },
+        {
+          "id": 7,
+          "name": "camera",
+          "se_name": "camera",
+          "product_count": 3
+        },
+        {
+          "id": 4,
+          "name": "compact",
+          "se_name": "compact",
+          "product_count": 7
+        },
+        {
+          "id": 2,
+          "name": "computer",
+          "se_name": "computer",
+          "product_count": 14
+        },
+        {
+          "id": 3,
+          "name": "cool",
+          "se_name": "cool",
+          "product_count": 17
+        },
+        {
+          "id": 13,
+          "name": "digital",
+          "se_name": "digital",
+          "product_count": 3
+        },
+        {
+          "id": 15,
+          "name": "jewelry",
+          "se_name": "jewelry-2",
+          "product_count": 3
+        },
+        {
+          "id": 5,
+          "name": "nice",
+          "se_name": "nice",
+          "product_count": 4
+        }
+      ]
+    }
+  }
+}

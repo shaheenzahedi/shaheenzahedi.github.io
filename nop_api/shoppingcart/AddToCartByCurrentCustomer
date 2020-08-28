@@ -1,0 +1,10 @@
+{
+    "status": 400,
+    "message": "Bad request",
+    "model": [
+        "Please select Processor",
+        "Please select RAM",
+        "Please select HDD",
+        "Please select OS"
+    ]
+}

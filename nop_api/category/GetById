@@ -1,0 +1,26 @@
+{
+  "status": 200,
+  "message": "Ok, successfull",
+  "model": {
+    "id": 1,
+    "name": "Computers",
+    "descriprion": null,
+    "meta_keywords": null,
+    "meta_description": null,
+    "meta_title": null,
+    "se_name": "computers",
+    "parent_category_id": 0,
+    "picture_id": 1,
+    "picture": {
+      "id": 1,
+      "image_base64": null,
+      "image_url": "https://fakeimg.pl/200x200/ff0000%2C128/000%2C255/",
+      "thumb_image_url": null,
+      "seo_filename": null,
+      "mime_type": null,
+      "full_size_image_url": "https://fakeimg.pl/200x200/ff0000%2C128/000%2C255/",
+      "title": "Show products in category Computers",
+      "alternate_text": "Picture for category Computers"
+    }
+  }
+}

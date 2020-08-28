@@ -1,0 +1,69 @@
+{
+    "status": 200,
+    "message": "Ok, successfull",
+    "model": {
+        "TotalTags": 16,
+        "Tags": [
+            {
+                "id": 10,
+                "name": "apparel",
+                "se_name": "apparel-2",
+                "product_count": 9
+            },
+            {
+                "id": 1,
+                "name": "awesome",
+                "se_name": "awesome",
+                "product_count": 17
+            },
+            {
+                "id": 14,
+                "name": "book",
+                "se_name": "book",
+                "product_count": 3
+            },
+            {
+                "id": 7,
+                "name": "camera",
+                "se_name": "camera",
+                "product_count": 3
+            },
+            {
+                "id": 4,
+                "name": "compact",
+                "se_name": "compact",
+                "product_count": 7
+            },
+            {
+                "id": 2,
+                "name": "computer",
+                "se_name": "computer",
+                "product_count": 14
+            },
+            {
+                "id": 3,
+                "name": "cool",
+                "se_name": "cool",
+                "product_count": 17
+            },
+            {
+                "id": 13,
+                "name": "digital",
+                "se_name": "digital",
+                "product_count": 3
+            },
+            {
+                "id": 15,
+                "name": "jewelry",
+                "se_name": "jewelry-2",
+                "product_count": 3
+            },
+            {
+                "id": 5,
+                "name": "nice",
+                "se_name": "nice",
+                "product_count": 4
+            }
+        ]
+    }
+}

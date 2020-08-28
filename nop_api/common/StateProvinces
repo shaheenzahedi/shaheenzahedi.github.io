@@ -1,0 +1,258 @@
+{
+    "status": 200,
+    "message": "Ok, successfull",
+    "model": [
+        {
+            "id": 0,
+            "name": "address.selectstate"
+        },
+        {
+            "id": 1,
+            "name": "AA (Armed Forces Americas)"
+        },
+        {
+            "id": 54,
+            "name": "AE (Armed Forces Europe)"
+        },
+        {
+            "id": 53,
+            "name": "Alabama"
+        },
+        {
+            "id": 52,
+            "name": "Alaska"
+        },
+        {
+            "id": 51,
+            "name": "American Samoa"
+        },
+        {
+            "id": 50,
+            "name": "AP (Armed Forces Pacific)"
+        },
+        {
+            "id": 49,
+            "name": "Arizona"
+        },
+        {
+            "id": 48,
+            "name": "Arkansas"
+        },
+        {
+            "id": 47,
+            "name": "California"
+        },
+        {
+            "id": 46,
+            "name": "Colorado"
+        },
+        {
+            "id": 45,
+            "name": "Connecticut"
+        },
+        {
+            "id": 44,
+            "name": "Delaware"
+        },
+        {
+            "id": 43,
+            "name": "District of Columbia"
+        },
+        {
+            "id": 42,
+            "name": "Federated States of Micronesia"
+        },
+        {
+            "id": 41,
+            "name": "Florida"
+        },
+        {
+            "id": 40,
+            "name": "Georgia"
+        },
+        {
+            "id": 55,
+            "name": "Guam"
+        },
+        {
+            "id": 57,
+            "name": "Hawaii"
+        },
+        {
+            "id": 74,
+            "name": "Idaho"
+        },
+        {
+            "id": 58,
+            "name": "Illinois"
+        },
+        {
+            "id": 73,
+            "name": "Indiana"
+        },
+        {
+            "id": 72,
+            "name": "Iowa"
+        },
+        {
+            "id": 71,
+            "name": "Kansas"
+        },
+        {
+            "id": 70,
+            "name": "Kentucky"
+        },
+        {
+            "id": 69,
+            "name": "Louisiana"
+        },
+        {
+            "id": 68,
+            "name": "Maine"
+        },
+        {
+            "id": 67,
+            "name": "Marshall Islands"
+        },
+        {
+            "id": 66,
+            "name": "Maryland"
+        },
+        {
+            "id": 65,
+            "name": "Massachusetts"
+        },
+        {
+            "id": 64,
+            "name": "Michigan"
+        },
+        {
+            "id": 63,
+            "name": "Minnesota"
+        },
+        {
+            "id": 62,
+            "name": "Mississippi"
+        },
+        {
+            "id": 61,
+            "name": "Missouri"
+        },
+        {
+            "id": 60,
+            "name": "Montana"
+        },
+        {
+            "id": 59,
+            "name": "Nebraska"
+        },
+        {
+            "id": 39,
+            "name": "Nevada"
+        },
+        {
+            "id": 56,
+            "name": "New Hampshire"
+        },
+        {
+            "id": 38,
+            "name": "New Jersey"
+        },
+        {
+            "id": 18,
+            "name": "New Mexico"
+        },
+        {
+            "id": 16,
+            "name": "New York"
+        },
+        {
+            "id": 15,
+            "name": "North Carolina"
+        },
+        {
+            "id": 14,
+            "name": "North Dakota"
+        },
+        {
+            "id": 13,
+            "name": "Northern Mariana Islands"
+        },
+        {
+            "id": 12,
+            "name": "Ohio"
+        },
+        {
+            "id": 11,
+            "name": "Oklahoma"
+        },
+        {
+            "id": 10,
+            "name": "Oregon"
+        },
+        {
+            "id": 9,
+            "name": "Palau"
+        },
+        {
+            "id": 8,
+            "name": "Pennsylvania"
+        },
+        {
+            "id": 7,
+            "name": "Puerto Rico"
+        },
+        {
+            "id": 6,
+            "name": "Rhode Island"
+        },
+        {
+            "id": 5,
+            "name": "South Carolina"
+        },
+        {
+            "id": 4,
+            "name": "South Dakota"
+        },
+        {
+            "id": 3,
+            "name": "Tennessee"
+        },
+        {
+            "id": 2,
+            "name": "Texas"
+        },
+        {
+            "id": 17,
+            "name": "Utah"
+        },
+        {
+            "id": 19,
+            "name": "Vermont"
+        },
+        {
+            "id": 36,
+            "name": "Virgin Islands"
+        },
+        {
+            "id": 20,
+            "name": "Virginia"
+        },
+        {
+            "id": 35,
+            "name": "Washington"
+        },
+        {
+            "id": 34,
+            "name": "West Virginia"
+        },
+        {
+            "id": 33,
+            "name": "Wisconsin"
+        },
+        {
+            "id": 32,
+            "name": "Wyoming"
+        }
+    ]
+}

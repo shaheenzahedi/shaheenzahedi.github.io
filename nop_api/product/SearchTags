@@ -1,0 +1,27 @@
+{
+  "status": 200,
+  "message": "Ok, successfull",
+  "model": [
+    {
+      "id": 16,
+      "count": 1,
+      "name": "gift"
+    },{
+      "id": 17,
+      "count": 10,
+      "name": "shop"
+    },{
+      "id": 18,
+      "count": 25,
+      "name": "card"
+    },{
+      "id": 19,
+      "count": 14,
+      "name": "fun"
+    },{
+      "id": 20,
+      "count": 71,
+      "name": "buy"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": 200,
+  "message": "Ok, successfull",
+  "model": [
+    {
+      "default_picture_model": {
+        "id": 74,
+        "image_base64": null,
+        "image_url": "compart.com/en/unicode/search?q=jeh#characters",
+        "thumb_image_url": null,
+        "seo_filename": null,
+        "mime_type": null,
+        "full_size_image_url": "compart.com/en/unicode/search?q=jeh#characters",
+        "title": "Picture of $25 Virtual Gift Card",
+        "alternate_text": "Picture of $25 Virtual Gift Card"
+      },
+      "product_price": {
+        "currency_code": "USD",
+        "old_price": null,
+        "price": "$25.00",
+        "price_with_discount": null,
+        "price_value": 25.0000,
+        "customer_enters_price": false,
+        "call_for_price": false,
+        "product_id": 43,
+        "hide_prices": false,
+        "is_rental": false,
+        "rental_price": null,
+        "display_tax_shipping_info": false,
+        "base_price_pangv": null,
+        "CustomProperties": {}
+      },
+      "name": "$25 Virtual Gift Card",
+      "short_description": "$25 Gift Card. Gift Cards must be redeemed through our site Web site toward the purchase of eligible products.",
+      "full_description": "<p>Gift Cards must be redeemed through our site Web site toward the purchase of eligible products. Purchases are deducted from the GiftCard balance. Any unused balance will be placed in the recipient's GiftCard account when redeemed. If an order exceeds the amount of the GiftCard, the balance must be paid with a credit card or other available payment method.</p>",
+      "meta_keywords": null,
+      "meta_description": null,
+      "meta_title": null,
+      "se_name": "25-virtual-gift-card",
+      "Id": 43,
+      "CustomProperties": {}
+    }
+  ]
+}

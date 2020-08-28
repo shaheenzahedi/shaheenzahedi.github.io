@@ -1,0 +1,17 @@
+{
+    "status": 200,
+    "message": "Ok, successfull",
+    "model": {
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImExZWJlNGNkLWZkOWItNDkxZi1hYTk5LTliOTk3ZDI2ZDAyNCIsIm5hbWVpZCI6IjQwNDYiLCJuYmYiOjE1OTc3NjYwNDQsImV4cCI6MTY2MDgzODA0NCwiaWF0IjoxNTk3NzY2MDQ0fQ.PSfMLMvo7m-UpxVyuD8oFYFCp5aqN4f2vjrfWl2_PJs",
+        "working_language": {
+            "id": 1,
+            "name": "English",
+            "display_order": 1
+        },
+        "working_currency": {
+            "id": 1,
+            "name": "US Dollar",
+            "display_order": 1
+        }
+    }
+}

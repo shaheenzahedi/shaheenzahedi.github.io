@@ -1,0 +1,9 @@
+{
+    "status": 400,
+    "message": "Bad request",
+    "model": {
+        "result": "You cannot vote for your own review",
+        "helpful_yes_total": 0,
+        "helpful_no_total": 0
+    }
+}

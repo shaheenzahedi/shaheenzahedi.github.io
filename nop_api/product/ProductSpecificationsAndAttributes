@@ -1,0 +1,380 @@
+{
+    "status": 200,
+    "message": "Ok, successfull",
+    "model": {
+        "ProductSpecificationsListModel": [],
+        "ProductAttributesListModel": [
+            {
+                "product_id": 1,
+                "product_attribute_id": 6,
+                "name": "Processor",
+                "description": null,
+                "text_prompt": null,
+                "is_required": true,
+                "default_value": null,
+                "selected_day": null,
+                "selected_month": null,
+                "selected_year": null,
+                "has_condition": false,
+                "allowed_file_extensions": [],
+                "attribute_control_type": 1,
+                "values": [
+                    {
+                        "name": "2.2 GHz Intel Pentium Dual-Core E2200",
+                        "color_squares_rgb": null,
+                        "image_squares_picture_model": {
+                            "id": 0,
+                            "image_base64": null,
+                            "image_url": null,
+                            "thumb_image_url": null,
+                            "seo_filename": null,
+                            "mime_type": null,
+                            "full_size_image_url": null,
+                            "title": null,
+                            "alternate_text": null
+                        },
+                        "price_adjustment": null,
+                        "price_adjustment_value": 0.0,
+                        "is_pre_selected": false,
+                        "picture_id": 0,
+                        "customer_enters_qty": false,
+                        "quantity": 0,
+                        "Id": 1,
+                        "CustomProperties": {}
+                    },
+                    {
+                        "name": "2.5 GHz Intel Pentium Dual-Core E2200",
+                        "color_squares_rgb": null,
+                        "image_squares_picture_model": {
+                            "id": 0,
+                            "image_base64": null,
+                            "image_url": null,
+                            "thumb_image_url": null,
+                            "seo_filename": null,
+                            "mime_type": null,
+                            "full_size_image_url": null,
+                            "title": null,
+                            "alternate_text": null
+                        },
+                        "price_adjustment": "+$15.00",
+                        "price_adjustment_value": 15.0000,
+                        "is_pre_selected": true,
+                        "picture_id": 0,
+                        "customer_enters_qty": false,
+                        "quantity": 0,
+                        "Id": 2,
+                        "CustomProperties": {}
+                    }
+                ],
+                "Id": 1,
+                "CustomProperties": {}
+            },
+            {
+                "product_id": 1,
+                "product_attribute_id": 7,
+                "name": "RAM",
+                "description": null,
+                "text_prompt": null,
+                "is_required": true,
+                "default_value": null,
+                "selected_day": null,
+                "selected_month": null,
+                "selected_year": null,
+                "has_condition": false,
+                "allowed_file_extensions": [],
+                "attribute_control_type": 1,
+                "values": [
+                    {
+                        "name": "2 GB",
+                        "color_squares_rgb": null,
+                        "image_squares_picture_model": {
+                            "id": 0,
+                            "image_base64": null,
+                            "image_url": null,
+                            "thumb_image_url": null,
+                            "seo_filename": null,
+                            "mime_type": null,
+                            "full_size_image_url": null,
+                            "title": null,
+                            "alternate_text": null
+                        },
+                        "price_adjustment": null,
+                        "price_adjustment_value": 0.0,
+                        "is_pre_selected": false,
+                        "picture_id": 0,
+                        "customer_enters_qty": false,
+                        "quantity": 0,
+                        "Id": 3,
+                        "CustomProperties": {}
+                    },
+                    {
+                        "name": "4GB",
+                        "color_squares_rgb": null,
+                        "image_squares_picture_model": {
+                            "id": 0,
+                            "image_base64": null,
+                            "image_url": null,
+                            "thumb_image_url": null,
+                            "seo_filename": null,
+                            "mime_type": null,
+                            "full_size_image_url": null,
+                            "title": null,
+                            "alternate_text": null
+                        },
+                        "price_adjustment": "+$20.00",
+                        "price_adjustment_value": 20.0000,
+                        "is_pre_selected": false,
+                        "picture_id": 0,
+                        "customer_enters_qty": false,
+                        "quantity": 0,
+                        "Id": 4,
+                        "CustomProperties": {}
+                    },
+                    {
+                        "name": "8GB",
+                        "color_squares_rgb": null,
+                        "image_squares_picture_model": {
+                            "id": 0,
+                            "image_base64": null,
+                            "image_url": null,
+                            "thumb_image_url": null,
+                            "seo_filename": null,
+                            "mime_type": null,
+                            "full_size_image_url": null,
+                            "title": null,
+                            "alternate_text": null
+                        },
+                        "price_adjustment": "+$60.00",
+                        "price_adjustment_value": 60.0000,
+                        "is_pre_selected": false,
+                        "picture_id": 0,
+                        "customer_enters_qty": false,
+                        "quantity": 0,
+                        "Id": 5,
+                        "CustomProperties": {}
+                    }
+                ],
+                "Id": 2,
+                "CustomProperties": {}
+            },
+            {
+                "product_id": 1,
+                "product_attribute_id": 4,
+                "name": "HDD",
+                "description": null,
+                "text_prompt": null,
+                "is_required": true,
+                "default_value": null,
+                "selected_day": null,
+                "selected_month": null,
+                "selected_year": null,
+                "has_condition": false,
+                "allowed_file_extensions": [],
+                "attribute_control_type": 2,
+                "values": [
+                    {
+                        "name": "320 GB",
+                        "color_squares_rgb": null,
+                        "image_squares_picture_model": {
+                            "id": 0,
+                            "image_base64": null,
+                            "image_url": null,
+                            "thumb_image_url": null,
+                            "seo_filename": null,
+                            "mime_type": null,
+                            "full_size_image_url": null,
+                            "title": null,
+                            "alternate_text": null
+                        },
+                        "price_adjustment": null,
+                        "price_adjustment_value": 0.0,
+                        "is_pre_selected": false,
+                        "picture_id": 0,
+                        "customer_enters_qty": false,
+                        "quantity": 0,
+                        "Id": 6,
+                        "CustomProperties": {}
+                    },
+                    {
+                        "name": "400 GB",
+                        "color_squares_rgb": null,
+                        "image_squares_picture_model": {
+                            "id": 0,
+                            "image_base64": null,
+                            "image_url": null,
+                            "thumb_image_url": null,
+                            "seo_filename": null,
+                            "mime_type": null,
+                            "full_size_image_url": null,
+                            "title": null,
+                            "alternate_text": null
+                        },
+                        "price_adjustment": "+$100.00",
+                        "price_adjustment_value": 100.0000,
+                        "is_pre_selected": false,
+                        "picture_id": 0,
+                        "customer_enters_qty": false,
+                        "quantity": 0,
+                        "Id": 7,
+                        "CustomProperties": {}
+                    }
+                ],
+                "Id": 3,
+                "CustomProperties": {}
+            },
+            {
+                "product_id": 1,
+                "product_attribute_id": 5,
+                "name": "OS",
+                "description": null,
+                "text_prompt": null,
+                "is_required": true,
+                "default_value": null,
+                "selected_day": null,
+                "selected_month": null,
+                "selected_year": null,
+                "has_condition": false,
+                "allowed_file_extensions": [],
+                "attribute_control_type": 2,
+                "values": [
+                    {
+                        "name": "Vista Home",
+                        "color_squares_rgb": null,
+                        "image_squares_picture_model": {
+                            "id": 0,
+                            "image_base64": null,
+                            "image_url": null,
+                            "thumb_image_url": null,
+                            "seo_filename": null,
+                            "mime_type": null,
+                            "full_size_image_url": null,
+                            "title": null,
+                            "alternate_text": null
+                        },
+                        "price_adjustment": "+$50.00",
+                        "price_adjustment_value": 50.0000,
+                        "is_pre_selected": true,
+                        "picture_id": 0,
+                        "customer_enters_qty": false,
+                        "quantity": 0,
+                        "Id": 8,
+                        "CustomProperties": {}
+                    },
+                    {
+                        "name": "Vista Premium",
+                        "color_squares_rgb": null,
+                        "image_squares_picture_model": {
+                            "id": 0,
+                            "image_base64": null,
+                            "image_url": null,
+                            "thumb_image_url": null,
+                            "seo_filename": null,
+                            "mime_type": null,
+                            "full_size_image_url": null,
+                            "title": null,
+                            "alternate_text": null
+                        },
+                        "price_adjustment": "+$60.00",
+                        "price_adjustment_value": 60.0000,
+                        "is_pre_selected": false,
+                        "picture_id": 0,
+                        "customer_enters_qty": false,
+                        "quantity": 0,
+                        "Id": 9,
+                        "CustomProperties": {}
+                    }
+                ],
+                "Id": 4,
+                "CustomProperties": {}
+            },
+            {
+                "product_id": 1,
+                "product_attribute_id": 9,
+                "name": "Software",
+                "description": null,
+                "text_prompt": null,
+                "is_required": false,
+                "default_value": null,
+                "selected_day": null,
+                "selected_month": null,
+                "selected_year": null,
+                "has_condition": false,
+                "allowed_file_extensions": [],
+                "attribute_control_type": 3,
+                "values": [
+                    {
+                        "name": "Microsoft Office",
+                        "color_squares_rgb": null,
+                        "image_squares_picture_model": {
+                            "id": 0,
+                            "image_base64": null,
+                            "image_url": null,
+                            "thumb_image_url": null,
+                            "seo_filename": null,
+                            "mime_type": null,
+                            "full_size_image_url": null,
+                            "title": null,
+                            "alternate_text": null
+                        },
+                        "price_adjustment": "+$50.00",
+                        "price_adjustment_value": 50.0000,
+                        "is_pre_selected": true,
+                        "picture_id": 0,
+                        "customer_enters_qty": false,
+                        "quantity": 0,
+                        "Id": 10,
+                        "CustomProperties": {}
+                    },
+                    {
+                        "name": "Acrobat Reader",
+                        "color_squares_rgb": null,
+                        "image_squares_picture_model": {
+                            "id": 0,
+                            "image_base64": null,
+                            "image_url": null,
+                            "thumb_image_url": null,
+                            "seo_filename": null,
+                            "mime_type": null,
+                            "full_size_image_url": null,
+                            "title": null,
+                            "alternate_text": null
+                        },
+                        "price_adjustment": "+$10.00",
+                        "price_adjustment_value": 10.0000,
+                        "is_pre_selected": false,
+                        "picture_id": 0,
+                        "customer_enters_qty": false,
+                        "quantity": 0,
+                        "Id": 11,
+                        "CustomProperties": {}
+                    },
+                    {
+                        "name": "Total Commander",
+                        "color_squares_rgb": null,
+                        "image_squares_picture_model": {
+                            "id": 0,
+                            "image_base64": null,
+                            "image_url": null,
+                            "thumb_image_url": null,
+                            "seo_filename": null,
+                            "mime_type": null,
+                            "full_size_image_url": null,
+                            "title": null,
+                            "alternate_text": null
+                        },
+                        "price_adjustment": "+$5.00",
+                        "price_adjustment_value": 5.0000,
+                        "is_pre_selected": false,
+                        "picture_id": 0,
+                        "customer_enters_qty": false,
+                        "quantity": 0,
+                        "Id": 12,
+                        "CustomProperties": {}
+                    }
+                ],
+                "Id": 5,
+                "CustomProperties": {}
+            }
+        ]
+    }
+}
